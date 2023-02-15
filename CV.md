@@ -41,3 +41,6 @@ Dévellopeur web junior, en formation "Dévellopeur Web et Accessibilité"
 
 Musique (triangle canadien) - Combats de robot - Echecs (le jeu) - Clash of Clans
 
+----
+
+2023 - John Doe - [Me contacter]()
