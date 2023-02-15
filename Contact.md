@@ -12,7 +12,7 @@ Une question ? Une idée ? Une proposition ?
 
 **Contactez-moi !**
 
-> :mail: [john.doe@gmail.com]()
+> :e-mail: [john.doe@gmail.com]()
 >  
 > :phone: +33(0)7 08 09 10 11
 > 
