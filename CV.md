@@ -43,4 +43,4 @@ Musique (triangle canadien) - Combats de robot - Echecs (le jeu) - Clash of Clan
 
 ----
 
-2023 - John Doe - [Me contacter](Contact.md)
+2023 - **John Doe** - [Me contacter](Contact.md)
