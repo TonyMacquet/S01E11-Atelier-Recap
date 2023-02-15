@@ -14,4 +14,20 @@ Dévellopeur web junior, en formation "Dévellopeur Web et Accessibilité"
 
 75000 Paris
 
+[john.doe@gmail.com]()
+
+----
+
+## Experience
+
+- **Depuis 2015** : Ingenieur à la NASA
+- **2007 a 2015** : Livreur de pizza à San Francisco
+- **2004 a 2007** : Coiffeur à domicile à Grenoble
+  
+## Formation
+
+- **1990** Grenoble, Lycée Champollion, BAC scientifique mention peut mieux faire
+- **1997** Lyon, ENS, Doctorat es Science de la matière
+- **2004** Cambridge Harvard, Doctorat Bioinspired Robotics and Computing
+
 
