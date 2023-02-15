@@ -12,11 +12,11 @@ Une question ? Une idée ? Une proposition ?
 
 **Contactez-moi !**
 
-> [john.doe@gmail.com]()
+> :mail: [john.doe@gmail.com]()
 >  
-> +33(0)7 08 09 10 11
+> :phone: +33(0)7 08 09 10 11
 > 
-> [Linkedin](https://fr.linkedin.com/)
+> :desk: [Linkedin](https://fr.linkedin.com/)
 > 
 > :bird: [Twitter](https://twitter.com/)
 
