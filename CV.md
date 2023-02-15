@@ -4,7 +4,7 @@
 
 Dévellopeur web junior, en formation "Dévellopeur Web et Accessibilité"
 
-[Acceuil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact]()
+[Acceuil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](Contact.md)
 
 # CV
 
@@ -43,4 +43,4 @@ Musique (triangle canadien) - Combats de robot - Echecs (le jeu) - Clash of Clan
 
 ----
 
-2023 - John Doe - [Me contacter]()
+2023 - John Doe - [Me contacter](Contact.md)
