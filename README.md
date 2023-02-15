@@ -4,7 +4,7 @@
 
 Dévellopeur web junior en formation "Dévellopeur Web et Accessebilité"
 
-[Acceuil](README.md) - [Projets](README.md) - [CV](README.md) - [Contact](README.md)
+[Acceuil](README.md) - [Projets](README.md) - [CV]() - [Contact]()
 
 ## Présentation 
 
@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-2023 - John Doe - [Me contacter](README.md)
+2023 - John Doe - [Me contacter]()
