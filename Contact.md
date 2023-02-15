@@ -16,7 +16,7 @@ Une question ? Une idée ? Une proposition ?
 >  
 > :phone: +33(0)7 08 09 10 11
 > 
-> :desk: [Linkedin](https://fr.linkedin.com/)
+> :man_technologist: [Linkedin](https://fr.linkedin.com/)
 > 
 > :bird: [Twitter](https://twitter.com/)
 
