@@ -18,7 +18,7 @@ Une question ? Une idée ? Une proposition ?
 > 
 > [Linkedin](https://fr.linkedin.com/)
 > 
-> [Twitter](https://twitter.com/)
+> :bird: [Twitter](https://twitter.com/)
 
 A bientot ! 
 
