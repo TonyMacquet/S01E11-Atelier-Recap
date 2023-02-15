@@ -30,4 +30,14 @@ Dévellopeur web junior, en formation "Dévellopeur Web et Accessibilité"
 - **1997** Lyon, ENS, Doctorat es Science de la matière
 - **2004** Cambridge Harvard, Doctorat Bioinspired Robotics and Computing
 
+## Compétences
+
+- **Langues** : Français maternelle , Anglais courant , Cantonais
+- **Informatique** : Maîtrise de Word et Power Point
+- **Robotique** : Maîtrise du remplacement des membres inférieurs par des membres artificiel bio-mécaniques
+- **Cuisine** : Maîtrise du Tiramisu au speculoos
+
+## **Loisirs**
+
+Musique (triangle canadien) - Combats de robot - Echecs (le jeu) - Clash of Clans
 
