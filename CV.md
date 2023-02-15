@@ -18,26 +18,26 @@
 
 ----
 
-## **Experience**
+### **Experience**
 
 - **Depuis 2015** : Ingenieur à la NASA
 - **2007 a 2015** : Livreur de pizza à San Francisco
 - **2004 a 2007** : Coiffeur à domicile à Grenoble
   
-## **Formation**
+### **Formation**
 
 - **1990** Grenoble, Lycée Champollion, BAC scientifique mention peut mieux faire
 - **1997** Lyon, ENS, Doctorat es Science de la matière
 - **2004** Cambridge Harvard, Doctorat Bioinspired Robotics and Computing
 
-## **Compétences**
+### **Compétences**
 
 - **Langues** : Français maternelle , Anglais courant , Cantonais
 - **Informatique** : Maîtrise de Word et Power Point
 - **Robotique** : Maîtrise du remplacement des membres inférieurs par des membres artificiel bio-mécaniques
 - **Cuisine** : Maîtrise du Tiramisu au speculoos
 
-## **Loisirs**
+### **Loisirs**
 
 Musique (triangle canadien) - Combats de robot - Echecs (le jeu) - Clash of Clans
 
