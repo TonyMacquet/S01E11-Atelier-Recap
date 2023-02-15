@@ -12,3 +12,16 @@ Une question ? Une idée ? Une proposition ?
 
 **Contactez-moi !**
 
+> [john.doe@gmail.com]()
+>  
+> +33(0)7 08 09 10 11
+> 
+> [Linkedin](https://fr.linkedin.com/)
+> 
+> [Twitter](https://twitter.com/)
+
+A bientot ! 
+
+-----
+
+2023 
