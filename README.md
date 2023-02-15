@@ -14,4 +14,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ----
 
-2023 - **John Doe** - [Me contacter](Contact.md)
+:copyright: 2023 - **John Doe** - [Me contacter](Contact.md)
